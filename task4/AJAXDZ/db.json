@@ -1,0 +1,33 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Мандарины",
+      "img": "https://sun9-75.userapi.com/impg/E9FrH7zdq_HaS-EU4wrlq3531sDsY9zqiNHtmQ/loDK_-T1qiQ.jpg?size=1080x1098&quality=95&sign=9966d340ea8886bc700eaa0a714361e9&type=album",
+      "body": "Котик наелся мандаринов",
+      "deliever": "Абхазия",
+      "code": "123456789"
+    },
+    {
+      "id": 2,
+      "title": "Тигор",
+      "img": "https://sun7-23.userapi.com/impg/rK7vT9knVOYFHLr9zvKVF5mAnkbWetdnjvtybg/NDQ9FkhJOTk.jpg?size=969x952&quality=96&sign=5769295eef2814d6acd508434d74a597&type=album",
+      "body": "Большой тигор",
+      "deliever": "Казахстан",
+      "code": "987654321"
+    },
+    {
+      "id": 3,
+      "title": "Тигренок",
+      "img": "https://i.ytimg.com/vi/beyIXclkI4U/maxresdefault.jpg",
+      "body": "Маленький тигреночек, нежненький и маленький",
+      "deliever": "Пятерочка",
+      "code": "111122223333"
+    }
+  ],
+  "creatorInfo": {
+    "name": "Донец Кирилл",
+    "group": "6409",
+    "repo": "https://github.com/Jadikir"
+  }
+}
